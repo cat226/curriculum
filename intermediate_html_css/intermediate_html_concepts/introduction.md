@@ -4,7 +4,7 @@ This is the first of the two part course where we dig deeper into HTML and CSS.
 
 Our foundations lessons by design only scratched the surface of what's possible. We wanted to give you all of the bare necessities for getting started so you could move on and be somewhat productive as quickly as possible, but now it's time to slow down and dig in!
 
-You have probably realized by now that there are many more HTML elements than we mentioned in our foundations content. Throughout this course, we'll be hitting the rest of the important elements such as forms and tables.
+You have probably realized by now that there are many more HTML elements than we mentioned in our foundations content. Throughout this course, be hitting the rest of the important elements such as forms and tables.
 
 There is also a *lot* more that you can do with CSS that you'll learn throughout this course, such as variables, functions, shadows and of course grid layouts! So buckle up! By the time you finish this course, you'll be able to recreate just about any web design you can find on the internet... which is an important skill to carry forward. Even if you are not shooting for a front-end specific job, being able to make your portfolio pieces look nice is important when it comes to making yourself stand out.
 
